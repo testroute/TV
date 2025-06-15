@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250615074254 +0800">
+<tv date="20250615103658 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -23901,6 +23901,9 @@
 	<programme channel="黑莓动画" start="20250615133900 +0800" stop="20250615150800 +0800">
 		<title lang="zh">海绵宝宝：水兵陆战队</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250615150800 +0800" stop="20250615163100 +0800">
+		<title lang="zh">邋遢大王奇遇记电影版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -23927,6 +23930,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250615122900 +0800" stop="20250615144200 +0800">
 		<title lang="zh">白蛇：浮生</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250615144200 +0800" stop="20250615164200 +0800">
+		<title lang="zh">成为简b7奥斯汀</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -24126,4 +24132,10 @@
 	<programme channel="龙岩综合" start="20250615231500 +0800" stop="20250615235900 +0800">
 		<title lang="zh">午夜影剧院</title>
 	</programme>
+	<channel id="IPTV经典电影">
+		<display-name lang="zh">IPTV经典电影</display-name>
+	</channel>
+	<channel id="新动漫">
+		<display-name lang="zh">新动漫</display-name>
+	</channel>
 </tv>
